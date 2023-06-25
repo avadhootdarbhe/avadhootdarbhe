@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avadhootdarbhe
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning blockchain, IOT, django
-- 💞️ I’m looking to collaborate on Flutter, dajno, IOT
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on Flutter, Golang
 - 📫 How to reach me 8483085296
 
 <!---
